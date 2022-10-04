@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ElenaLatynina/goit-react-hw-02-feedback/static/css/main.7acaea2f.css",
-    "main.js": "/ElenaLatynina/goit-react-hw-02-feedback/static/js/main.126b1796.js",
+    "main.js": "/ElenaLatynina/goit-react-hw-02-feedback/static/js/main.f43ce44f.js",
     "index.html": "/ElenaLatynina/goit-react-hw-02-feedback/index.html",
     "main.7acaea2f.css.map": "/ElenaLatynina/goit-react-hw-02-feedback/static/css/main.7acaea2f.css.map",
-    "main.126b1796.js.map": "/ElenaLatynina/goit-react-hw-02-feedback/static/js/main.126b1796.js.map"
+    "main.f43ce44f.js.map": "/ElenaLatynina/goit-react-hw-02-feedback/static/js/main.f43ce44f.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.126b1796.js"
+    "static/js/main.f43ce44f.js"
   ]
 }
